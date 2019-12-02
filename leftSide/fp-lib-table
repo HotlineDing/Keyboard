@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name keebs)(type KiCad)(uri "C:/Users/Ding/Documents/Kicad Libraries/keebs.pretty-master")(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri "C:/Users/Ding/Documents/Kicad Libraries/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name NRF51822-QFAB-R)(type Legacy)(uri C:/Users/Ding/Downloads/NRF51822-QFAB-R.mod)(options "")(descr ""))
+)
